@@ -17,6 +17,8 @@ header img {
 	display: flex;
 	align-items: center;
 	column-gap: 48px;
+
+	list-style: none;
 }
 
 .navigation__link {
